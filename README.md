@@ -23,17 +23,17 @@ This is a simple Amazon Clone website built using HTML and CSS. The project aims
   
    cd Amazon-clone-website
 
-4. Open the `amazon.html` file in your browser.
+4. Open the `Amazon_CWA.html` file in your browser.
 
 ## 🔧 Usage
 - 🌐 Open the website in a browser to explore the UI and features.
-- ✏️ Modify the `index.html` and `style.css` files to customize the design.
+- ✏️ Modify the `Amazon_CWA.html` and `Amazon_CWA.css` files to customize the design.
 
 ## 📂 Folder Structure
 ```
 Amazon-clone-website/
-│── index.html  # Main HTML file
-│── style.css   # Stylesheet for the project
+│── Amazon_CWA.html  # Main HTML file
+│── Amazon_CWA.css   # Stylesheet for the project
 │── images/     # Folder containing images
 │── README.md   # Project documentation
 ```
@@ -48,6 +48,6 @@ Feel free to fork the repository and contribute by submitting a pull request.
 This project is licensed under the MIT License.
 
 ## 📬 Contact
-For any queries, feel free to reach out at [ashish241438@gmail.com).
+For any queries, feel free to reach out at [ashish241438@gmail.com].
 
 
