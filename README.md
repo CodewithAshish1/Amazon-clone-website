@@ -17,13 +17,13 @@ This is a simple Amazon Clone website built using HTML and CSS. The project aims
 ## 🚀 Installation
 1. Clone the repository:
    
-  
+   https://github.com/CodewithAshish1/Amazon-clone-website
 
-2. Navigate to the project directory:
-   ```bash
+3. Navigate to the project directory:
+  
    cd Amazon-clone-website
-   ```
-3. Open the `index.html` file in your browser.
+
+4. Open the `amazon.html` file in your browser.
 
 ## 🔧 Usage
 - 🌐 Open the website in a browser to explore the UI and features.
@@ -39,7 +39,7 @@ Amazon-clone-website/
 ```
 
 ## 🖼️ Screenshots
-(Add screenshots of your project here for better visualization.)
+(screenshots of project here for better visualization.)
 
 ## 🤝 Contributing
 Feel free to fork the repository and contribute by submitting a pull request.
